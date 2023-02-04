@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: seeeduino_xiao_ble
     shield: skeletyl_v2_left
-  - board: nice_nano_v2
+  - board: seeeduino_xiao_ble
     shield: skeletyl_v2_right
   - board: nice_nano_v2
     shield: dilemma_left
